@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HttpOnRestStandard</id>
+    <version>1.0.0</version>
+    <authors>HttpOnRestStandard</authors>
+    <owners>HttpOnRestStandard</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Well designed HttpClient with Microsoft HttpClient and Json.Net as serializer with ability to be injected for event's like compression,encryption,...  with simple interface implamentation</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.AspNetCore.Hosting" version="2.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.0.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\WorkSpace\HORS\HORS\bin\Debug\netstandard2.0\HttpOnRestStandard.dll" target="lib\netstandard2.0\HttpOnRestStandard.dll" />
+  </files>
+</package>
