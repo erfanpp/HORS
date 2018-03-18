@@ -25,11 +25,11 @@ namespace NHORS.Core
         }
         #endregion
         #region DataLoader
-        public async Task<HttpResponseMessage> Send(HttpRequestMessage httpRequestMessage, CancellationToken cancellationToken)
+        protected async Task<HttpResponseMessage> Send(HttpRequestMessage httpRequestMessage, CancellationToken cancellationToken)
         {
             return await SendAsync(httpRequestMessage, cancellationToken);
         }
-        public async Task<HttpResponseMessage> Send(HttpRequestMessage httpRequestMessage)
+        protected async Task<HttpResponseMessage> Send(HttpRequestMessage httpRequestMessage)
         {
             return await SendAsync(httpRequestMessage);
         }

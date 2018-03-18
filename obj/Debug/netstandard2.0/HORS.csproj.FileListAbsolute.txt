@@ -45,3 +45,12 @@ D:\WorkSpace\HORS\HORS\obj\Debug\netstandard2.0\HORS.AssemblyInfoInputs.cache
 D:\WorkSpace\HORS\HORS\obj\Debug\netstandard2.0\HORS.AssemblyInfo.cs
 D:\WorkSpace\HORS\HORS\obj\Debug\netstandard2.0\HttpOnRestStandard.dll
 D:\WorkSpace\HORS\HORS\obj\Debug\netstandard2.0\HttpOnRestStandard.pdb
+D:\WorkSpace\HORS GITHUB\HORS\bin\Debug\netstandard2.0\HttpOnRestStandard.deps.json
+D:\WorkSpace\HORS GITHUB\HORS\bin\Debug\netstandard2.0\HttpOnRestStandard.dll
+D:\WorkSpace\HORS GITHUB\HORS\bin\Debug\netstandard2.0\HttpOnRestStandard.pdb
+D:\WorkSpace\HORS GITHUB\HORS\obj\Debug\netstandard2.0\HORS.csprojResolveAssemblyReference.cache
+D:\WorkSpace\HORS GITHUB\HORS\obj\Debug\netstandard2.0\HORS.csproj.CoreCompileInputs.cache
+D:\WorkSpace\HORS GITHUB\HORS\obj\Debug\netstandard2.0\HORS.AssemblyInfoInputs.cache
+D:\WorkSpace\HORS GITHUB\HORS\obj\Debug\netstandard2.0\HORS.AssemblyInfo.cs
+D:\WorkSpace\HORS GITHUB\HORS\obj\Debug\netstandard2.0\HttpOnRestStandard.dll
+D:\WorkSpace\HORS GITHUB\HORS\obj\Debug\netstandard2.0\HttpOnRestStandard.pdb

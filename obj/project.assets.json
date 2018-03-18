@@ -3954,15 +3954,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\HORS\\HORS\\HORS.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\HORS GITHUB\\HORS\\HORS.csproj",
       "projectName": "HttpOnRestStandard",
-      "projectPath": "D:\\WorkSpace\\HORS\\HORS\\HORS.csproj",
+      "projectPath": "D:\\WorkSpace\\HORS GITHUB\\HORS\\HORS.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\HORS\\HORS\\obj\\",
+      "outputPath": "D:\\WorkSpace\\HORS GITHUB\\HORS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
